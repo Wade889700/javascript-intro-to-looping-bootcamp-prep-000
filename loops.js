@@ -5,10 +5,7 @@ for (var i = 1; i < 100; i++){
 }
 
 function whileLoop(number){
-  while (number>0){
-    console.log(number--)
-    if (number=0){
-      return 'done'
+    while (number=0){
+        console.log('done')
     }
-  }
 }
