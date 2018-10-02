@@ -8,8 +8,6 @@ function forLoop(myArray){
 function whileLoop(number){
   
 while (number>0){
-  number -= number
-  if(number=0){
-        console.log('done')}
+        console.log(number--)}
     }
 }
