@@ -20,3 +20,7 @@ if (number===0){
 }
     }
 }
+
+function doWhileLoop(){
+  
+}
