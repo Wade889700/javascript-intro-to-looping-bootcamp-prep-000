@@ -21,6 +21,8 @@ if (number===0){
     }
 }
 
-function doWhileLoop(){
-  
-}
+function doWhileLoop(array){
+  array.pop()
+  if array.
+  incrementVariable()
+} while(array[])
